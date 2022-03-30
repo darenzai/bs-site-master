@@ -1,4 +1,3 @@
-学力教育前台
 ``` bash
 # install dependencies
 $ npm install # Or yarn install
